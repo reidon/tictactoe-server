@@ -36,3 +36,5 @@
 *.opendb
 *.opensdf
 *.db
+*.db
+Server/.vs/Server/v15/Browse.VC.db
