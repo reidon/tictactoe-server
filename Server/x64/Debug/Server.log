@@ -1,2 +1,4 @@
 ﻿  Server.cpp
+c:\users\sonny\documents\tictactoe-server\server\server.cpp(122): warning C4311: '<function-style-cast>': pointer truncation from 'char *' to 'int'
+c:\users\sonny\documents\tictactoe-server\server\server.cpp(122): warning C4302: '<function-style-cast>': truncation from 'char *' to 'int'
   Server.vcxproj -> C:\Users\Sonny\Documents\tictactoe-server\Server\x64\Debug\Server.exe
